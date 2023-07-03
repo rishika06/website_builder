@@ -1,0 +1,15 @@
+.layout__container {
+  height: 100vh;
+  background: rgb(1, 78, 124);
+  background: linear-gradient(
+    176deg,
+    rgba(1, 78, 124, 1) 0%,
+    rgba(1, 19, 41, 1) 100%
+  );
+  overflow: hidden;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

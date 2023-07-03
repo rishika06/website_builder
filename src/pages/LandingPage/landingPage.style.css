@@ -1,0 +1,15 @@
+.landing-page__heading {
+  font-size: 42px;
+}
+
+.landing-page__link {
+  padding: 18px 46px;
+  border: none;
+  background-color: #fff;
+  border-radius: 5px;
+  font-size: 20px;
+  cursor: pointer;
+  text-decoration: none;
+  color: #000;
+  font-weight: 500;
+}

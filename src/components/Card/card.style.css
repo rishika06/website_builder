@@ -1,0 +1,42 @@
+.card__container {
+  background-color: #fff;
+  color: #013558;
+  border-radius: 5px;
+  padding: 24px;
+  width: 350px;
+}
+.card__heading {
+  font-size: 24px;
+  font-weight: 500;
+  margin: 0;
+}
+
+.card__desc {
+  opacity: 60%;
+}
+
+.card__btn-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0;
+}
+
+.card__btn-wrapper > button {
+  border: none;
+  padding: 8px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.card__btn-primary {
+  background-color: #47bd35;
+  color: #fff;
+}
+
+.card__btn-secondary {
+  background-color: #fff;
+  color: #013558;
+  border: 1px solid #013558 !important;
+}

@@ -1,0 +1,32 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  /* width: 80%; */
+  /* margin: 30px; */
+}
+
+nav > ul {
+  display: flex;
+}
+
+nav > ul > li {
+  list-style: none;
+  padding: 12px;
+}
+
+nav > ul > li > a {
+  padding: 12px 20px;
+  font-size: 20px;
+  text-decoration: none;
+  color: #000;
+}
+
+/* nav > ul > li > a.active {
+  color: red;
+} */
+
+.nav-bar__image {
+  height: 60px;
+  width: 60px;
+  cursor: pointer;
+}
